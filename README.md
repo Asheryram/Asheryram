@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Yram Tetteh-Abotsi
 - 👀 I’m interested in music and coding
 - 🌱 I’m currently learning CS
-- 💞️ I’m looking to collaborate on companies.
+- 💞️ I’m looking to collaborate with companies.
 - 📫 How to reach me +2330595024589
 
 <!---
