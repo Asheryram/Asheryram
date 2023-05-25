@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Yram Tetteh-Abotsi
-- 👀 I’m interested in music and tech
+- 👀 I’m interested in and Tech
 - 🌱 Computer Science student at Kwame Nkrumah University Of Science And Technology
 -
 <!---
